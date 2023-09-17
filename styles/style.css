@@ -146,7 +146,6 @@
   grid-area: main-title;
   justify-self: start;
   align-self: end;
-  color: var(--main-title-color);
   text-shadow: 4px 4px 0px var(--accent-color);
   text-align: start;
 }
